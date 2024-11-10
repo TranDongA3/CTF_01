@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/14708800-29aa-49fa-bd2d-f0259e667cf5)Đây là một thử thách của giải Duy Tân 
+
 Mô tả : Nhìn qua source code tôi gửi ở trên có thể thấy ta sẽ lần lượt vào các điểm cuối để thực hiện thao tác ở đây ta chú ý /register có phần kiểm tra nếu có chữ admin thì sẽ block. Vì thế ta sẽ tìm cách bypass 
 
             @app.route('/register', methods=['POST'])
