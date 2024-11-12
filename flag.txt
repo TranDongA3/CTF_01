@@ -1,1 +1,2 @@
 ISITDTU{test_flag}
+/flag.txt
